@@ -1,0 +1,25 @@
+{
+  "US": {
+    "name": "United States",
+    "childName": "State",
+    "children": {
+      "NY": {
+        "name": "New York",
+        "childName": "City",
+        "children": {
+          "NYC": {
+            "name": "New York City",
+            "childName": "Thing",
+            "children": {
+              "Trello": {
+                "url": "https://trello.com",
+                "jobs": "https://trello.com/jobs",
+                "logo": "trello.png"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
